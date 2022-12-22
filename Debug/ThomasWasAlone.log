@@ -1,0 +1,133 @@
+﻿  LevelManager.cpp
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(115,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(142,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(142,16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(145,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(145,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(148,59): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(148,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(151,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(151,17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(154,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(154,17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(157,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(157,17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(160,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(160,17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(163,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(163,17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(169,19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(172,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(172,14): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(175,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(175,14): warning C4244: 'argument': conversion from 'const int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(178,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(181,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(184,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(187,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\ThomasWasAlone\LevelManager.cpp(190,27): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  ThomasWasAlone.vcxproj -> C:\Users\dunca\Desktop\School\GameDesign\McLean-Homework\Debug\ThomasWasAlone.exe
